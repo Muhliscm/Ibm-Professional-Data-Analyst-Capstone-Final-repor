@@ -13,3 +13,8 @@ This projects mainly focus on
 - Data visualization 
 - Dashboards
 - Presenting finding
+
+Tools used: Python, Sql, Cognos Analytics and power point
+
+Data collection : 
+Data collected from stackoverflow usig 
