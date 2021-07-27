@@ -14,7 +14,7 @@ This projects mainly focus on
 - Dashboards
 - Presenting finding
 
-Tools used: Python, Sql, Cognos Analytics,  power point , Apis, 
+Tools used: Python, Sql, Cognos Analytics,  power point and Apis 
 
 Data collected from stackoverflow using stack overflow job api and web scraping
 
@@ -23,3 +23,5 @@ Data wrangling and explonatory data analysis is done by using python
 Data viz and dash board are created by Cognos Analytics bi
 
 Final Presentation in Power point as in the name "capstone story.pptx"
+
+Python libraries used : Pandas, Numpy , Matplot lib, seaborn , requests and BeautiulSoup
