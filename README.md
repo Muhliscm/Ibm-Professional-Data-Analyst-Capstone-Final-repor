@@ -1,4 +1,4 @@
-# Ibm-Professional-Data-Analyst-Capstonetone-Final-report
+# Technology Trends
 
 Tools Used: Python, Cognos BI, Power Point
 
