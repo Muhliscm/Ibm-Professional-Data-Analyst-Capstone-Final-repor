@@ -6,6 +6,10 @@ Ide : Jupyter Notebook
 
 Data collected from Stack overflow job API and webscraping
 
+Goal : To Find most sought after technologies in 2021 and coming years
+
+Completed this project as part of IBM Professional Data Analyst Certification
+
 
  <img src="images/C (1).jpg" height="700" width="900" title="first">
  <img src="images/C (2).jpg" height="700" width="900" title="second">
