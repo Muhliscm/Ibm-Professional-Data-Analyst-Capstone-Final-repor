@@ -1,6 +1,6 @@
 # Ibm-Professional-Data-Analyst-Capstonetone-Final-report
 
-Toos Used: Python, Cognos BI, Power Point
+Tools Used: Python, Cognos BI, Power Point
 
 Ide : Jupyter Notebook
 
