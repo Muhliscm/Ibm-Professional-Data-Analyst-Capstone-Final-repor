@@ -1,5 +1,12 @@
 # Ibm-Professional-Data-Analyst-Capstonetone-Final-report
 
+Toos Used: Python, Cognos BI, Power Point
+
+Ide : Jupyter Notebook
+
+Data collected from Stack overflow job API and webscraping
+
+
  <img src="images/C (1).jpg" height="700" width="900" title="first">
  <img src="images/C (2).jpg" height="700" width="900" title="second">
  <img src="images/C (3).jpg" height="700" width="900" title="third">
