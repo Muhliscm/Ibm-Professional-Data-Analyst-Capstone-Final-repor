@@ -1,14 +1,45 @@
 # Technology Trends
 
-Tools Used: Python, Cognos BI, Power Point
+![Data Science](https://img.shields.io/badge/%20-%20Data%20Science-blueviolet?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/%20-Data%20Analysis-9cf?style=flat-square&logo=appveyor)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-violet)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-Ide : Jupyter Notebook
+This project is a part of the IBM data analyst certification final assignment
 
-Data collected from Stack overflow job API and webscraping
+#### -- Project Status: [Completed]
 
-Goal : To Find most sought after technologies in 2021 and coming years
+## Project Intro/Objective
+The purpose of this project is to find the most sought after technologies
 
-Completed this project as part of IBM Professional Data Analyst Certification
+### Methods Used
+* Data collected stack overflow job survey using webscaping and Api
+* Data cleaned using python
+* Analysed  data in python
+* Charts created using Seaborn
+* Final dashboard created using Cognos Bi
+
+### Technologies
+* Python
+* MS Excel
+* Cognos Bi 
+* Power Point
+* Jupyter Notebook
+
+
+## Project Description
+This project is intented to find most loved programming languages and databases from stack over flow job survey, the respondants gender, which region has more participants
+
+
+## Featured Notebooks/Analysis/Deliverables
+* [Power point presentation](https://github.com/Muhliscm/Ibm-Professional-Data-Analyst-Capstonetone-Final-repor/blob/main/capstone-story.pptx)
+* [Final Report Pdf](https://github.com/Muhliscm/Ibm-Professional-Data-Analyst-Capstonetone-Final-repor/blob/main/work/capstone-story-pdf.pdf)
+
+
 
 
  <img src="images/C (1).jpg" height="700" width="900" title="first">
