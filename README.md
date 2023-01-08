@@ -42,7 +42,7 @@ This project is intented to find most loved programming languages and databases 
 
 
 
- <img src="images/C (1).jpg" height="700" width="900" title="first">
+ <img src="https://github.com/Muhliscm/Ibm-Professional-Data-Analyst-Capstonetone-Final-repor/blob/main/images/C%20(1).jpg" height="700" width="900" title="first">
  <img src="images/C (2).jpg" height="700" width="900" title="second">
  <img src="images/C (3).jpg" height="700" width="900" title="third">
  <img src="images/C (4).jpg" height="700" width="900" title="fourth">
